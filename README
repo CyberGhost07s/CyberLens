@@ -1,0 +1,25 @@
+# CyberLens
+
+CyberLens is an AI-powered smart glasses project designed for real-time navigation and danger detection.
+
+## Main Features
+
+### Navigation
+- Real-time route guidance
+- Voice navigation
+- Hands-free experience
+
+### Danger Detection
+- Vehicle detection
+- Obstacle detection
+- Safety alerts
+
+### Microsoft Technologies
+
+- Azure Maps
+- Azure AI Vision
+- Azure AI Speech
+
+## First Milestone
+
+Build real-world navigation using Azure Maps.
